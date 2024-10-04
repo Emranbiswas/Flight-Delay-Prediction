@@ -47,6 +47,6 @@ Before running this app, ensure you have the following installed:
 
 5. **Upload Data**
 
-   Upload CSV file: ```bash
+   ```bash
    airline_dataset_2023.csv
    
