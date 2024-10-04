@@ -49,4 +49,19 @@ Before running this app, ensure you have the following installed:
 
    Here is the dataset link: (airline_dataset_2023.csv)[https://github.com/Emranbiswas/Flight-Delay-Prediction/blob/main/Data/airline_dataset_2023.csv].
 
-   
+6.  **Train the Model**
+   Click the Train Model button to train the linear regression model on the uploaded dataset. The RMSE (Root Mean Squared Error) will be displayed to indicate the       performance of the model.
+
+7. **Make Predictions**
+   Once the model is trained, fill in the flight details in the input fields (airline, origin, destination, etc.), and click Predict Delay to get the predicted arrival delay for the flight.
+
+## Future Improvements
+- Add more advanced machine learning models such as Random Forest or XGBoost for better predictions.
+- Allow for real-time data integration from flight APIs.
+- Provide visualizations for better data analysis (e.g., delay distributions).
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+- For any questions or support, feel free to contact me at [emran.hstu1999@gmail.com].
