@@ -47,7 +47,5 @@ Before running this app, ensure you have the following installed:
 
 5. **Upload Data**
 
-   | AIRLINE | ORIGIN | DEST | DEP_DELAY | TAXI_OUT | DISTANCE | ARR_DELAY | Month | DayofMonth |
-|---------|--------|------|-----------|----------|----------|-----------|-------|------------|
-| AA      | ATL    | LAX  | 10        | 15       | 2000     | 30        | 5     | 15         |
+Upload a CSV file: Here is the <a herf = "https://github.com/Emranbiswas/Flight-Delay-Prediction/blob/main/Data/airline_dataset_2023.csv"> datalink </a>
    
