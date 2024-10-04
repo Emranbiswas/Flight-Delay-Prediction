@@ -34,3 +34,20 @@ Before running this app, ensure you have the following installed:
 
    ```bash
    pip install dash dash_core_components dash_html_components scikit-learn pandas numpy
+   
+3. **Run the application**
+
+   ```bash
+   python flight_delay_predictor.py
+
+4. **Access the App**
+
+   ```bash
+   http://127.0.0.1:8050/
+
+5. **Upload Data**
+
+   | AIRLINE | ORIGIN | DEST | DEP_DELAY | TAXI_OUT | DISTANCE | ARR_DELAY | Month | DayofMonth |
+|---------|--------|------|-----------|----------|----------|-----------|-------|------------|
+| AA      | ATL    | LAX  | 10        | 15       | 2000     | 30        | 5     | 15         |
+   
