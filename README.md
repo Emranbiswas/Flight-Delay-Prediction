@@ -47,5 +47,6 @@ Before running this app, ensure you have the following installed:
 
 5. **Upload Data**
 
-Upload a CSV file: Here is the <a herf = "https://github.com/Emranbiswas/Flight-Delay-Prediction/blob/main/Data/airline_dataset_2023.csv"> datalink </a>
+   Upload CSV file: ```bash
+   airline_dataset_2023.csv
    
